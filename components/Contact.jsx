@@ -1,7 +1,7 @@
 const ContactSection = () => {
   return (
     <section id="contact" className="w-full py-20 bg-[#0A0F1A]">
-      <div className="max-w-[60%] mx-auto grid md:grid-cols-2 gap-10">
+      <div className="max-w-[70%] mx-auto grid md:grid-cols-2 gap-10">
         
         {/* LEFT — Contact Info */}
         <div>

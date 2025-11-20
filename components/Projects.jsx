@@ -109,7 +109,7 @@ export default function ProjectsSection() {
             </div>
           </div>
 
-          {/* CARD 3 – Automation Project */}
+          {/* CARD 3 –  Project */}
           <div className="bg-[#111827] border border-white/5 rounded-2xl p-5 shadow-lg shadow-black/40 hover:shadow-[#3B82F6]/40 hover:-translate-y-1 transition-all duration-300 ">
             <div className="relative flex justify-center w-full h-72 rounded-xl overflow-hidden mb-4">
               <Image
