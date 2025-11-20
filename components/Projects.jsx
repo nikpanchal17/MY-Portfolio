@@ -54,8 +54,9 @@ export default function ProjectsSection() {
             {/* Buttons */}
             <div className="mt-5 flex gap-3 flex-wrap">
               <a
-                href="#"
+                href="https://nikhilpanchal17.vercel.app/"
                 target="_blank"
+                rel="noopener noreferrer"
                 className="px-5 py-2 rounded-full bg-[#3B82F6] text-white text-sm font-medium hover:bg-[#2563EB] transition-all"
               >
                 Live Demo
@@ -97,8 +98,9 @@ export default function ProjectsSection() {
 
             <div className="mt-5 flex gap-3 flex-wrap">
               <a
-                href="#"
+                href="https://task-management-cyan-theta.vercel.app/"
                 target="_blank"
+                 rel="noopener noreferrer"
                 className="px-5 py-2 rounded-full bg-[#3B82F6] text-white text-sm font-medium hover:bg-[#2563EB] transition-all"
               >
                 Live Demo
@@ -140,8 +142,9 @@ export default function ProjectsSection() {
 
             <div className="mt-5 flex gap-3 flex-wrap">
               <a
-                href="#"
+                href="https://zibapay.com/"
                 target="_blank"
+                 rel="noopener noreferrer"
                 className="px-5 py-2 rounded-full bg-[#3B82F6] text-white text-sm font-medium hover:bg-[#2563EB] transition-all"
               >
                 Live Demo
