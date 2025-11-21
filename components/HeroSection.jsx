@@ -9,16 +9,16 @@ export default function HeroSection() {
             <div className="pt-25 mx-auto max-w-[85%] md:grid grid-cols-2">
                     <div className="flex flex-col justify-center">
 
-                            <h3 className="text-[#60A5FA] text-xl lg:text-2xl font-medium tracking-wide">
+                            <h3 className="text-[#60A5FA] text-lg lg:text-xl font-medium tracking-wide">
                                 Hello,
                             </h3>
 
-                            <h1 className="text-white text-4xl lg:text-6xl font-bold leading-tight mt-2">
+                            <h1 className="text-white text-3xl lg:text-5xl font-bold leading-tight mt-2">
                                 I'm <span className="text-[#3B82F6]">Nikhil Panchal</span>
                             </h1>
 
                             <h2 className="
-                                            text-2xl lg:text-4xl 
+                                            text-2xl lg:text-3xl 
                                             font-semibold 
                                             mt-3 
                                             bg-gradient-to-r from-[#3B82F6] to-[#60A5FA] 
@@ -38,7 +38,7 @@ export default function HeroSection() {
                         <Image
                             src="/logo.webp"     // <-- public folder ka image
                             alt="Logo"
-                            width={600}
+                            width={500}
                             height={600}
                             className="object-contain "
                         />
