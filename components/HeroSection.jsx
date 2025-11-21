@@ -25,7 +25,7 @@ export default function HeroSection() {
                                             bg-clip-text text-transparent
                                             "> Frontend Web Developer </h2>
 
-                            <p className=" mt-6 text-xl leading-relaxed">
+                            <p className=" mt-6 text-xl text-gray-300 leading-relaxed">
                                 I build modern, responsive and high-performance websites with the latest technologies like
                                 React, Next.js and Tailwind CSS.
                             </p>

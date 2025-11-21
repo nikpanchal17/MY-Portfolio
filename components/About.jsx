@@ -6,10 +6,10 @@ export default function About() {
         <section id="about" className="w-full  py-16 bg-[#0A0F1A]">
             <div className="max-w-[85%] mx-auto">
                 {/* Heading */}
-                <h2 className="text-3xl md:text-5xl font-bold text-white">
+                <h2 className="text-3xl md:text-4xl font-bold text-white">
                     About <span className="text-[#3B82F6]">Me</span>
                 </h2>
-                <p className="text-gray-200 md:text-xl mt-2">
+                <p className="text-gray-300 md:text-xl mt-2">
                     A short introduction about who I am and what I do.
                 </p>
 

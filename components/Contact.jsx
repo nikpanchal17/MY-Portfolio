@@ -5,14 +5,14 @@ const ContactSection = () => {
         
         {/* LEFT — Contact Info */}
         <div>
-          <h2 className="text-3xl md:text-5xl font-bold text-white">
+          <h2 className="text-3xl md:text-4xl font-bold text-white">
             Contact <span className="text-[#3B82F6]">Me</span>
           </h2>
-          <p className="text-gray-200 mt-3 text-xl leading-relaxed">
+          <p className="text-gray-300 mt-3 text-xl leading-relaxed">
             Have a project in mind or want to collaborate? Let’s talk!
           </p>
 
-          <div className="mt-8 space-y-5 text-gray-200 text-xl">
+          <div className="mt-8 space-y-5 text-gray-300 text-xl">
             <p className="flex items-center gap-3">
               📧 <span className="text-[#60A5FA] font-medium">Email:</span> nik20011711@gmail.com
             </p>

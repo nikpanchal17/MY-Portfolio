@@ -7,10 +7,10 @@ export default function ProjectsSection() {
     <section id="projects" className="w-full py-16 bg-[#0A0F1A]">
       <div className="max-w-[85%] mx-auto">
         {/* Heading */}
-        <h2 className="text-3xl md:text-5xl font-bold text-white">
+        <h2 className="text-3xl md:text-4xl font-bold text-white">
           My <span className="text-[#3B82F6]">Projects</span>
         </h2>
-        <p className="text-gray-200 mt-2 text-xl">
+        <p className="text-gray-300 mt-2 text-xl">
           Some of the work I&apos;ve done in frontend and automation.
         </p>
 
