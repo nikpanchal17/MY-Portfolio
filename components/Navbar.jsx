@@ -13,7 +13,7 @@ const Navbar = () => {
         <nav className="w-full md:max-w-[85%] mx-auto px-4 py-3 flex items-center justify-between h-full">
           
           {/* LEFT: Links (Desktop / Laptop) */}
-          <div className="hidden md:flex items-center gap-8 text-sm md:text-xl text-white">
+          <div className="hidden md:flex items-center gap-8 text-sm md:text-lg text-white">
             <a href="#about" className="hover:text-[#3B82F6] transition">
               About
             </a>
@@ -30,9 +30,9 @@ const Navbar = () => {
           {/* RIGHT: Download CV (Desktop) */}
           <div className="hidden md:block">
             <a
-              href="/Nikhil-Panchal-Ai.pdf" // yahan apni CV ka actual path de dena
+              href="/resume.pdf" // yahan apni CV ka actual path de dena
               download
-              className="px-5 py-2 rounded-full bg-[#3B82F6] text-white text-xl font-medium
+              className="px-3.5 py-2 rounded-full bg-[#3B82F6] text-white text-lg font-medium
                          hover:bg-[#2563EB] transition-all shadow-md shadow-[#3B82F6]/40"
             >
               Download CV
@@ -107,7 +107,7 @@ const Navbar = () => {
           </a>
 
           <a
-            href="/Nikhil-Panchal-Ai.pdf" // yahan bhi apni CV ka path
+            href="/resume.pdf" // yahan bhi apni CV ka path
             download
             onClick={() => setOpen(false)}
             className="mt-4 px-6 py-2 rounded-full border border-[#3B82F6]
