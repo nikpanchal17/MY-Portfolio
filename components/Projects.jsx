@@ -5,7 +5,7 @@ import Image from "next/image";
 export default function ProjectsSection() {
   return (
     <section id="projects" className="w-full py-16 bg-[#0A0F1A]">
-      <div className="max-w-[75%] mx-auto">
+      <div className="max-w-[85%] mx-auto">
         {/* Heading */}
         <h2 className="text-3xl md:text-5xl font-bold text-white">
           My <span className="text-[#3B82F6]">Projects</span>

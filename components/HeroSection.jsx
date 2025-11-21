@@ -6,7 +6,7 @@ import Image from "next/image";
 export default function HeroSection() {
     return (
         <section className="relative bg-[#0A0F1A] overflow-hidden text-white">
-            <div className="pt-25 mx-auto max-w-[75%] md:grid grid-cols-2">
+            <div className="pt-25 mx-auto max-w-[85%] md:grid grid-cols-2">
                     <div className="flex flex-col justify-center">
 
                             <h3 className="text-[#60A5FA] text-xl lg:text-2xl font-medium tracking-wide">

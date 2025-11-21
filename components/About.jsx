@@ -4,7 +4,7 @@
 export default function About() {
     return (
         <section id="about" className="w-full  py-16 bg-[#0A0F1A]">
-            <div className="max-w-[75%] mx-auto">
+            <div className="max-w-[85%] mx-auto">
                 {/* Heading */}
                 <h2 className="text-3xl md:text-5xl font-bold text-white">
                     About <span className="text-[#3B82F6]">Me</span>
