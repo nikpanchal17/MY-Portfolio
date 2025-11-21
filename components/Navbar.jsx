@@ -10,7 +10,7 @@ const Navbar = () => {
     <>
       {/* TOP NAVBAR */}
       <header className="fixed top-0 left-0 w-full z-40 bg-[#050814]/80 backdrop-blur-md border-b border-white/5 h-24">
-        <nav className="w-full md:w-3/4 mx-auto px-4 py-3 flex items-center justify-between h-full">
+        <nav className="w-full md:max-w-[85%] mx-auto px-4 py-3 flex items-center justify-between h-full">
           
           {/* LEFT: Links (Desktop / Laptop) */}
           <div className="hidden md:flex items-center gap-8 text-sm md:text-xl text-white">
